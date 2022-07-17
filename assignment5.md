@@ -1,2 +1,4 @@
-aaaaaa  '
-qq
+1. Wiring diagram untuk sensor tersebut menggunakan fritzing ( upload dalam MD files screenshot wiring diagram tersebut ). (![Screenshot 2022-07-16 071015](https://user-images.githubusercontent.com/107297270/179390267-6047b02f-0501-4210-9576-cd5fd59c1c4e.png))
+2. Script sensor.py dan sebuah fungsi untuk mengambil data dari sensor tersebut
+3. Sebuah script utama [main.py](http://main.py) yang terdiri dari sebuah logic sederhana yang menjawab sebuah use case sederhana ( jelaskan use case tersebut dalam MD files! )
+4. (Optional) Ambil sekitar 5 - 10 sample data dan tampilkan dalam sebuah grafik matplotlib dan screenshot hasil tersebut dan upload pada MD files.
